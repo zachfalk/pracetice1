@@ -1,0 +1,39 @@
+body{
+	font-size: 18px;
+}
+
+h3{
+	font-size: 150%;
+	text-align: center;
+}
+
+#topNav{
+	width: auto;
+	height: 35px;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: bold;
+	text-align: left;
+	text-shadow: 3px 2px 3px #333333;
+	background-color: #8AD9FF;
+		border-radius: 8px;
+}
+#topNav ul{
+	height: auto;
+	padding: 8px 0px;
+	margin: 0px;
+
+}
+#topNav li{
+display: inline;
+padding: 20px;
+}
+#topNav a{
+	text-decoration: none;
+	color: #00F;
+	padding: 8px 8px 8px 8px;
+}
+#topNav a:hover{
+	color: #F90;
+	background-color: #FFF;
+}
